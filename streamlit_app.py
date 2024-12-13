@@ -79,9 +79,9 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://www.amc.seoul.kr/healthinfo/health/attach/img/29901/20111130113633_0_29901.jpg",
+            "https://d15q6xcjx71x0s.cloudfront.net/_41278ee7c2.jpg",
+            "https://health.chosun.com/site/data/img_dir/2021/05/18/2021051801174_0.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
@@ -89,16 +89,16 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "대상포진 입니다.",
+            "건선 입니다.",
             "Label 1 관련 두 번째 텍스트 내용입니다.",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://d2m9duoqjhyhsq.cloudfront.net/community/encyclopedia/disease-images/3fea8d87-cdb3-4f4c-b6c8-c05b8e45620b-1.jpg",
+            "https://src.hidoc.co.kr/image/lib/2020/3/27/1585282166664_0.jpg",
+            "https://cdn.news.hidoc.co.kr/news/photo/202003/21518_51205_0430.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
@@ -106,16 +106,16 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "건선 입니다.",
+            "대상포진 입니다.",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEmiWtfBOOvVGLtfpUvbxOZNCbxxL9hk8hBA&s",
+            "https://cdn.aitimes.com/news/photo/202102/136547_135498_2118.jpg",
+            "https://www.seattlekdaily.com/news/photo/202408/10707_13805_193.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
