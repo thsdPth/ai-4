@@ -84,9 +84,9 @@ content_data = {
             "https://health.chosun.com/site/data/img_dir/2021/05/18/2021051801174_0.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/6IhKGTnpFno?si=GzF6YEOzqpb31kJH",
+            "https://youtu.be/F1KmTe23ZAI?si=3avk3j-uaOWJJ7v1",
+            "https://youtu.be/B3ZFc03f4i4?si=a1eabQGI01ofTJtb"
         ],
         'texts': [
             "건선 입니다.",
@@ -101,9 +101,9 @@ content_data = {
             "https://cdn.news.hidoc.co.kr/news/photo/202003/21518_51205_0430.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://youtu.be/wF-ERTfvR_Y?si=gvHbrSleWXCCqbj_",
+            "https://youtu.be/Lu2HkaxcZuE?si=zGjM8ZHFN0bAniUP",
+            "https://youtu.be/oq71010xImk?si=mi5yk55zYS25mEx4"
         ],
         'texts': [
             "대상포진 입니다.",
@@ -118,9 +118,9 @@ content_data = {
             "https://www.seattlekdaily.com/news/photo/202408/10707_13805_193.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://youtu.be/ovY75Qd_mOI?si=uNW1rRibBA63CEn4",
+            "https://youtu.be/9oWkb6ZmZHk?si=2edzn5N_-qUlZ4EO",
+            "https://youtu.be/L_hNgiJdj44?si=uelljgv4IjLpV0CL"
         ],
         'texts': [
             "흑색종 입니다.",
